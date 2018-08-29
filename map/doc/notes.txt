@@ -1,0 +1,1 @@
+With respect to the original used, the map has been generally increased to 200%, while the unit zoom has been increased from 0.5625 to 0.8333.
